@@ -4,16 +4,6 @@ My name is Leonardo Silva and I'm glad you came. Welcome to my repository!!!
 
 As Software Engineer I've been working in several projects. Once worked over 15 years in the same company, I realized some lack of knowledge that I should dig deeper. I'd welcome any constructive advice about my codes and projects. And you could count on me for any help as well if I didn't know how to help I'd figure out a way to do.
 
-Just now I'm into
-
-  ...learning and coding throught [Next Level Week](https://nextlevelweek.com/episodios/omnistack/5/edicao/2) by [Rocketseat](https://rocketseat.com.br/) <br>
-  ...learning [AP® Psychology](https://www.edx.org/course/ap-psychology-course-1-what-is-psychology) by [Edx](https://www.edx.org) <br>
-  ...reading [Outwitting the Devil](https://www.amazon.com/Outwitting-Devil-Secret-Freedom-Success/dp/1454900679) (Napoleon Hill) <br>
-  
-Next step
-
-  ...make adjustments to the [project](https://newsflix.vercel.app) developed throught [Imersão React](https://www.alura.com.br/imersao-react) by [Alura](https://www.alura.com.br) <br>
-
 <br>
 
 
